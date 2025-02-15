@@ -8,37 +8,16 @@
 alt="Demo of the Nextcloud iOS files app"
 height="40">](https://itunes.apple.com/us/app/nextcloud/id1125420102)
 
-Check out https://nextcloud.com and follow us on [twitter.com/nextclouders](https://twitter.com/nextclouders)
-
-## How to contribute
-If you want to [contribute](https://nextcloud.com/contribute/) to Nextcloud, you are very welcome:
-
-- our forum at https://help.nextcloud.com/c/clients/ios
-- for translations of the app on [Transifex](https://www.transifex.com/nextcloud/nextcloud/dashboard/)
-- opening issues and PRs (including a corresponding issue)
-
-## Contribution Guidelines & License
+Check out https://go2work.app
 
 [GPLv3](LICENSE.txt) with [Apple app store exception](COPYING.iOS).
 
-Nextcloud doesn't require a CLA (Contributor License Agreement). The copyright belongs to all the individual contributors. Therefore we recommend that every contributor adds following line to the header of a file, if they changed it substantially:
+Go2Work doesn't require a CLA (Contributor License Agreement). The copyright belongs to all the individual contributors. Therefore we recommend that every contributor adds following line to the header of a file, if they changed it substantially:
 
 ```
 @copyright Copyright (c) <year>, <your name> (<your email address>)
 ```
 
-Please read the [Code of Conduct](https://nextcloud.com/code-of-conduct/). This document offers some guidance to ensure Nextcloud participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
-
-More information how to contribute: [https://nextcloud.com/contribute/](https://nextcloud.com/contribute/)
-
-## Start contributing
-
-You can start by forking this repository and creating pull requests on the develop
-branch. Maybe start working on [starter issues](https://github.com/nextcloud/ios/labels/good%20first%20issue). 
-
-Easy starting points are also reviewing [pull requests](https://github.com/nextcloud/ios/pulls)
-
-### Xcode 16 Project Setup
 
 #### Dependencies
 
